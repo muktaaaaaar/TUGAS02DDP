@@ -1,0 +1,6 @@
+AND118,Laskar Pelangi,Andrea Hirata,3
+SHI689,Hujan,Shineeminka,2
+KEI029,Keajaiban Toko Kelontong Namiya,Keigo Higashino,1
+TEN230,Tulisan Sastra,Tenderlova,2
+SHI290,Mencintaimu Dalam Diam,Shineeminka,4
+ASM433,Ketika Cinta Bertasbih,AsmaNadia,3
